@@ -27,3 +27,4 @@ You can try the app here: https://app-australian-weather.streamlit.app/
  - Pandas: For data manipulation and preprocessing.
  - Joblib: For model saving and loading.
  - Streamlit: For building an interactive web interface.
+ - requirements.txt: List of necessary Python packages.
