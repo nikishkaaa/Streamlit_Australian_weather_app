@@ -8,7 +8,7 @@ The model is trained on the Australian weather dataset from Kaggle. It includes 
 Link to the dataset (https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package)
 
 ## 📁 Project structure:
- - data/: Directory containing the Iris dataset (iris.csv).
+ - data/: Directory containing the dataset.
  - images/: Directory for storing images used in the application.
  - model/: Directory containing the trained ML model.
  - app.py: Main file of the Streamlit application.
